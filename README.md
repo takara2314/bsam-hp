@@ -1,36 +1,34 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<section align="center">
 
-## Getting Started
+<a href="https://github.com/takara2314/bsam-server">
+    <img src="./public/favicon.svg" width="128" height="128" alt="logo" />
+</a>
 
-First, run the development server:
+# B-SAM Homepage - 視覚障がい者セーリング支援アプリ ホームページ
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+</section>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+視覚障がいのある方が、セーリング（ヨット競技）をより安全かつ楽しく行えるようにサポートするシステム「B-SAM（Blind Sailing Assist Mie）」のホームページです。
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## ⚖️ ライセンス
+このプロジェクトは [GPL-3.0](./LICENSE) ライセンスの下で公開しています。
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### 自由な利用と配布
+ソフトウェアを自由に使用、修正、配布する権利が保証されています。
+### ソースコードの公開
+配布時にはソースコードを提供するか、入手方法を明示する必要があります。
+### 派生作品の継承
+派生作品も同じGPLv3ライセンスで公開しなければなりません（コピーレフト）。
+### 特許権の取り扱い
+ソフトウェアに含まれる特許の無償利用を認め、貢献者がユーザーに対して特許訴訟を起こすことを禁止しています。
+### 商用利用
+営利目的での使用や販売が可能ですが、ソースコードの公開や、派生物へのGPLv3適用などの条件を守る必要があります。
 
-## Learn More
+## 👨‍💻 開発者
+[濱口 宝 (Takara Hamaguchi)](https://github.com/takara2314)
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+<div align="center">
+<small>
+© 2022 NPO法人セイラビリティ三重
+</small>
+</div>
